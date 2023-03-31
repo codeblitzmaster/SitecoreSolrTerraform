@@ -1,4 +1,4 @@
-# Sitecore Terraform
+# Sitecore Solr Terraform
 Terraform templates for Sitecore Solr installation on Microsoft Azure Windows VM. 
 
 This Terraform takes care of complete automation by:
